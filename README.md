@@ -1,2 +1,2 @@
-# BB-stajda-yapt-klar-m-
+# BB stajda yaptıklarım.
 Staj içinde yaptıklarım 
