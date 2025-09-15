@@ -1,0 +1,14 @@
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\bin\Debug\net9.0\AlgorithmSolutions.exe
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\bin\Debug\net9.0\AlgorithmSolutions.deps.json
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\bin\Debug\net9.0\AlgorithmSolutions.runtimeconfig.json
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\bin\Debug\net9.0\AlgorithmSolutions.dll
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\bin\Debug\net9.0\AlgorithmSolutions.pdb
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\AlgorithmSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\AlgorithmSolutions.AssemblyInfoInputs.cache
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\AlgorithmSolutions.AssemblyInfo.cs
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\AlgorithmSolutions.csproj.CoreCompileInputs.cache
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\AlgorithmSolutions.dll
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\refint\AlgorithmSolutions.dll
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\AlgorithmSolutions.pdb
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\AlgorithmSolutions.genruntimeconfig.cache
+C:\Users\kyuru\Desktop\VsCodes\AlgortimaSorular\AlgorithmSolutions\obj\Debug\net9.0\ref\AlgorithmSolutions.dll

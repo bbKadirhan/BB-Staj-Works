@@ -1,0 +1,14 @@
+C:\Users\kyuru\Desktop\VsCodes\Odev\bin\Debug\net9.0\Odev.exe
+C:\Users\kyuru\Desktop\VsCodes\Odev\bin\Debug\net9.0\Odev.dll
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\Odev.AssemblyInfoInputs.cache
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\Odev.AssemblyInfo.cs
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\Odev.csproj.CoreCompileInputs.cache
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\Odev.dll
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\refint\Odev.dll
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\Odev.pdb
+C:\Users\kyuru\Desktop\VsCodes\Odev\bin\Debug\net9.0\Odev.deps.json
+C:\Users\kyuru\Desktop\VsCodes\Odev\bin\Debug\net9.0\Odev.runtimeconfig.json
+C:\Users\kyuru\Desktop\VsCodes\Odev\bin\Debug\net9.0\Odev.pdb
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\Odev.genruntimeconfig.cache
+C:\Users\kyuru\Desktop\VsCodes\Odev\obj\Debug\net9.0\ref\Odev.dll
