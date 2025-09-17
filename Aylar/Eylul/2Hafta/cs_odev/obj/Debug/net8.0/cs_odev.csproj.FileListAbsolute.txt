@@ -1,0 +1,14 @@
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\bin\Debug\net8.0\cs_odev.exe
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\bin\Debug\net8.0\cs_odev.deps.json
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\bin\Debug\net8.0\cs_odev.runtimeconfig.json
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\bin\Debug\net8.0\cs_odev.dll
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\bin\Debug\net8.0\cs_odev.pdb
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\cs_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\cs_odev.AssemblyInfoInputs.cache
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\cs_odev.AssemblyInfo.cs
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\cs_odev.csproj.CoreCompileInputs.cache
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\cs_odev.dll
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\refint\cs_odev.dll
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\cs_odev.pdb
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\cs_odev.genruntimeconfig.cache
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\cs_odev\obj\Debug\net8.0\ref\cs_odev.dll
