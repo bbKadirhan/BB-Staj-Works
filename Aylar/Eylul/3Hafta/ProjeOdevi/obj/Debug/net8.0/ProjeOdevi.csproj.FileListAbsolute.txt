@@ -1,0 +1,14 @@
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\bin\Debug\net8.0\ProjeOdevi.exe
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\bin\Debug\net8.0\ProjeOdevi.deps.json
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\bin\Debug\net8.0\ProjeOdevi.runtimeconfig.json
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\bin\Debug\net8.0\ProjeOdevi.dll
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\bin\Debug\net8.0\ProjeOdevi.pdb
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ProjeOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ProjeOdevi.AssemblyInfoInputs.cache
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ProjeOdevi.AssemblyInfo.cs
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ProjeOdevi.dll
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\refint\ProjeOdevi.dll
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ProjeOdevi.pdb
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ProjeOdevi.genruntimeconfig.cache
+C:\Users\stj.kadirhan.cura\Desktop\TestAll\ProjeOdevi\obj\Debug\net8.0\ref\ProjeOdevi.dll
