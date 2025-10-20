@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 *{
+    transition: 1s;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", "serif";
+    overflow-x: hidden;
 }
 body{
     justify-content: center;
@@ -49,6 +51,10 @@ main{
 main h1{
     font-size: 70px;
     cursor: default;
+}
+
+.home-section{
+  cursor: default;
 }
 
 
@@ -139,4 +145,48 @@ section{
   to {
     width: 0;
   }
+}
+
+.testing{
+  width: 100%;
+  height: 530px;
+  background-image: linear-gradient(117deg,rgba(0,0,0) 58%,rgba(253, 110, 54, 0.993));
+  overflow: hidden;
+}
+.testingimage{
+  position: static;
+  transform: translateX(490px) translateY(-90px);
+}
+
+.testingMainText{
+  text-align: left;
+  transform:translateY(170px) translateX(170px);
+  font-size: 30px;
+  background: -webkit-linear-gradient(70deg,#ee3312e5 20%, #e8f52e); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+
+.testingDescription{
+  width: 730px;
+  transform: translateX(170px) translateY(160px);
+  color: white;
+  font-weight: bold;
+  text-align: left;
+}
+
+.testingButton{
+  position: static;
+  font-size: 15px;
+  font-weight: 600;
+  height: 50px;
+  width: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  min-width: fit-content + 20px;
+  background: linear-gradient(70deg,#ee3312e5, #ecf383 90%);
+  border-radius: 10px;
+  border: none;
+  transform: translateX(-740px) translateY(-180px);
+  cursor: pointer;
+  box-shadow: 
+    0 1px 10px #ee33128f; /* Optional: even wider, softer glow */
 }
