@@ -1,0 +1,10 @@
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\bin\Debug\RandevuUygulamasıWinForm.exe.config
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\bin\Debug\RandevuUygulamasıWinForm.exe
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\bin\Debug\RandevuUygulamasıWinForm.pdb
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\obj\Debug\RandevuUygulamasıWinForm.csproj.AssemblyReference.cache
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\obj\Debug\RandevuUygulamasıWinForm.RandevuApp.resources
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\obj\Debug\RandevuUygulamasıWinForm.Properties.Resources.resources
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\obj\Debug\RandevuUygulamasıWinForm.csproj.GenerateResource.cache
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\obj\Debug\RandevuUygulamasıWinForm.csproj.CoreCompileInputs.cache
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\obj\Debug\RandevuUygulamasıWinForm.exe
+C:\Users\stj.kadirhan.cura\source\repos\RandevuUygulamasıWinForm\RandevuUygulamasıWinForm\obj\Debug\RandevuUygulamasıWinForm.pdb

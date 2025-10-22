@@ -1,0 +1,6 @@
+visual studio dan winforms kullanarak desktop uygulaması yaptım 
+system I/O kullanarak ranvu uygulaması yaptım müşterileri local de kayıt edilebilmesini sağladım
+txt dosyasına kaydedilen müşteriler otomatiktmen uygulamada tabloda gösteriliyor
+koyu, açık, yüksek kontrast görünümleri ayarlanabilmesini sağladı,
+kaydedilen datanın dosya konumuna göndreen bir buton, ve yedekleme butonu ekledim,
+uygulama çıkışı esnasında kaydedilmemiş bir değişiklik var ise kaydetmek istiyormusunuz seçeneği sunndum.
