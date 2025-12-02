@@ -156,6 +156,9 @@
             isTdName = new TextBox();
             label39 = new Label();
             label40 = new Label();
+            label41 = new Label();
+            comboBox1 = new ComboBox();
+            label42 = new Label();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             UsersPanel.SuspendLayout();
@@ -193,7 +196,7 @@
             panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(186, 577);
+            panel1.Size = new Size(186, 700);
             panel1.TabIndex = 0;
             // 
             // pnlNav
@@ -275,7 +278,7 @@
             btnChangeAcc.FlatStyle = FlatStyle.Flat;
             btnChangeAcc.Font = new Font("Microsoft PhagsPa", 14.25F, FontStyle.Bold);
             btnChangeAcc.ForeColor = Color.FromArgb(0, 126, 249);
-            btnChangeAcc.Location = new Point(0, 493);
+            btnChangeAcc.Location = new Point(0, 616);
             btnChangeAcc.Name = "btnChangeAcc";
             btnChangeAcc.Size = new Size(186, 42);
             btnChangeAcc.TabIndex = 11;
@@ -307,7 +310,7 @@
             button5.FlatStyle = FlatStyle.Flat;
             button5.Font = new Font("Microsoft PhagsPa", 14.25F, FontStyle.Bold);
             button5.ForeColor = Color.FromArgb(0, 126, 249);
-            button5.Location = new Point(0, 535);
+            button5.Location = new Point(0, 658);
             button5.Name = "button5";
             button5.Size = new Size(186, 42);
             button5.TabIndex = 5;
@@ -351,6 +354,9 @@
             // UsersPanel
             // 
             UsersPanel.AutoSize = true;
+            UsersPanel.Controls.Add(label42);
+            UsersPanel.Controls.Add(comboBox1);
+            UsersPanel.Controls.Add(label41);
             UsersPanel.Controls.Add(button9);
             UsersPanel.Controls.Add(flowLayoutPanel1);
             UsersPanel.Controls.Add(label5);
@@ -366,7 +372,7 @@
             UsersPanel.Dock = DockStyle.Fill;
             UsersPanel.Location = new Point(186, 0);
             UsersPanel.Name = "UsersPanel";
-            UsersPanel.Size = new Size(914, 577);
+            UsersPanel.Size = new Size(914, 700);
             UsersPanel.TabIndex = 1;
             UsersPanel.Visible = false;
             // 
@@ -391,9 +397,9 @@
             flowLayoutPanel1.Controls.Add(btnClear);
             flowLayoutPanel1.Controls.Add(btnEditUser);
             flowLayoutPanel1.Controls.Add(btnRefresh);
-            flowLayoutPanel1.Location = new Point(12, 367);
+            flowLayoutPanel1.Location = new Point(298, 88);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
-            flowLayoutPanel1.Size = new Size(161, 224);
+            flowLayoutPanel1.Size = new Size(204, 202);
             flowLayoutPanel1.TabIndex = 16;
             // 
             // button1
@@ -480,12 +486,12 @@
             dataGridView1.BorderStyle = BorderStyle.None;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.GridColor = Color.FromArgb(46, 51, 80);
-            dataGridView1.Location = new Point(179, 88);
+            dataGridView1.Location = new Point(16, 296);
             dataGridView1.MultiSelect = false;
             dataGridView1.Name = "dataGridView1";
             dataGridView1.ReadOnly = true;
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView1.Size = new Size(723, 468);
+            dataGridView1.Size = new Size(886, 383);
             dataGridView1.TabIndex = 2;
             dataGridView1.SelectionChanged += dataGridView1_SelectionChanged;
             // 
@@ -494,7 +500,7 @@
             tdDeleted.DropDownStyle = ComboBoxStyle.DropDownList;
             tdDeleted.FormattingEnabled = true;
             tdDeleted.Items.AddRange(new object[] { "False", "True" });
-            tdDeleted.Location = new Point(11, 338);
+            tdDeleted.Location = new Point(202, 186);
             tdDeleted.Name = "tdDeleted";
             tdDeleted.Size = new Size(85, 23);
             tdDeleted.TabIndex = 10;
@@ -504,7 +510,7 @@
             tdRole.DropDownStyle = ComboBoxStyle.DropDownList;
             tdRole.FormattingEnabled = true;
             tdRole.Items.AddRange(new object[] { "User", "Admin" });
-            tdRole.Location = new Point(11, 259);
+            tdRole.Location = new Point(202, 121);
             tdRole.Name = "tdRole";
             tdRole.Size = new Size(85, 23);
             tdRole.TabIndex = 9;
@@ -528,7 +534,7 @@
             label4.AutoSize = true;
             label4.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 162);
             label4.ForeColor = Color.FromArgb(158, 161, 176);
-            label4.Location = new Point(16, 307);
+            label4.Location = new Point(207, 157);
             label4.Name = "label4";
             label4.Size = new Size(80, 15);
             label4.TabIndex = 6;
@@ -540,7 +546,7 @@
             label3.AutoSize = true;
             label3.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 162);
             label3.ForeColor = Color.FromArgb(158, 161, 176);
-            label3.Location = new Point(16, 228);
+            label3.Location = new Point(207, 90);
             label3.Name = "label3";
             label3.Size = new Size(37, 15);
             label3.TabIndex = 5;
@@ -552,7 +558,7 @@
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 162);
             label2.ForeColor = Color.FromArgb(158, 161, 176);
-            label2.Location = new Point(16, 152);
+            label2.Location = new Point(16, 157);
             label2.Name = "label2";
             label2.Size = new Size(69, 15);
             label2.TabIndex = 4;
@@ -564,7 +570,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 162);
             label1.ForeColor = Color.FromArgb(158, 161, 176);
-            label1.Location = new Point(12, 88);
+            label1.Location = new Point(12, 90);
             label1.Name = "label1";
             label1.Size = new Size(73, 15);
             label1.TabIndex = 3;
@@ -589,7 +595,7 @@
             VetPanel.Dock = DockStyle.Fill;
             VetPanel.Location = new Point(186, 0);
             VetPanel.Name = "VetPanel";
-            VetPanel.Size = new Size(914, 577);
+            VetPanel.Size = new Size(914, 700);
             VetPanel.TabIndex = 17;
             VetPanel.Visible = false;
             // 
@@ -718,7 +724,7 @@
             dataGridView2.Name = "dataGridView2";
             dataGridView2.ReadOnly = true;
             dataGridView2.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView2.Size = new Size(723, 468);
+            dataGridView2.Size = new Size(723, 591);
             dataGridView2.TabIndex = 2;
             dataGridView2.SelectionChanged += dataGridView2_SelectionChanged;
             // 
@@ -830,7 +836,7 @@
             petPanel.Dock = DockStyle.Fill;
             petPanel.Location = new Point(186, 0);
             petPanel.Name = "petPanel";
-            petPanel.Size = new Size(914, 577);
+            petPanel.Size = new Size(914, 700);
             petPanel.TabIndex = 18;
             petPanel.Visible = false;
             // 
@@ -1112,7 +1118,7 @@
             dataGridView3.Name = "dataGridView3";
             dataGridView3.ReadOnly = true;
             dataGridView3.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView3.Size = new Size(891, 260);
+            dataGridView3.Size = new Size(891, 383);
             dataGridView3.TabIndex = 2;
             dataGridView3.SelectionChanged += dataGridView3_SelectionChanged;
             // 
@@ -1211,7 +1217,7 @@
             RandevuPanel.Dock = DockStyle.Fill;
             RandevuPanel.Location = new Point(186, 0);
             RandevuPanel.Name = "RandevuPanel";
-            RandevuPanel.Size = new Size(914, 577);
+            RandevuPanel.Size = new Size(914, 700);
             RandevuPanel.TabIndex = 29;
             RandevuPanel.Visible = false;
             // 
@@ -1474,7 +1480,7 @@
             dataGridView4.Name = "dataGridView4";
             dataGridView4.ReadOnly = true;
             dataGridView4.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView4.Size = new Size(891, 269);
+            dataGridView4.Size = new Size(891, 392);
             dataGridView4.TabIndex = 2;
             dataGridView4.SelectionChanged += dataGridView4_SelectionChanged;
             // 
@@ -1531,7 +1537,7 @@
             isPanel.Dock = DockStyle.Fill;
             isPanel.Location = new Point(186, 0);
             isPanel.Name = "isPanel";
-            isPanel.Size = new Size(914, 577);
+            isPanel.Size = new Size(914, 700);
             isPanel.TabIndex = 30;
             isPanel.Visible = false;
             // 
@@ -1783,7 +1789,7 @@
             dataGridView5.Name = "dataGridView5";
             dataGridView5.ReadOnly = true;
             dataGridView5.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView5.Size = new Size(861, 269);
+            dataGridView5.Size = new Size(861, 392);
             dataGridView5.TabIndex = 2;
             dataGridView5.SelectionChanged += dataGridView5_SelectionChanged;
             // 
@@ -1827,15 +1833,49 @@
             label40.Text = "Hayvan ismi";
             label40.TextAlign = ContentAlignment.MiddleLeft;
             // 
+            // label41
+            // 
+            label41.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            label41.ForeColor = Color.White;
+            label41.Location = new Point(518, 88);
+            label41.Name = "label41";
+            label41.Size = new Size(147, 37);
+            label41.TabIndex = 18;
+            label41.Text = "Filtre";
+            label41.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // comboBox1
+            // 
+            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "False", "True" });
+            comboBox1.Location = new Point(518, 155);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(85, 23);
+            comboBox1.TabIndex = 19;
+            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            // 
+            // label42
+            // 
+            label42.AutoSize = true;
+            label42.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            label42.ForeColor = Color.FromArgb(158, 161, 176);
+            label42.Location = new Point(518, 137);
+            label42.Name = "label42";
+            label42.Size = new Size(80, 15);
+            label42.TabIndex = 20;
+            label42.Text = "Is Deleted?";
+            label42.TextAlign = ContentAlignment.MiddleLeft;
+            // 
             // Dashboard
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(46, 51, 73);
-            ClientSize = new Size(1100, 577);
+            ClientSize = new Size(1100, 700);
+            Controls.Add(UsersPanel);
             Controls.Add(RandevuPanel);
             Controls.Add(VetPanel);
-            Controls.Add(UsersPanel);
             Controls.Add(petPanel);
             Controls.Add(isPanel);
             Controls.Add(panel3);
@@ -2008,5 +2048,8 @@
         private Button button11;
         private ComboBox tdvtName;
         private ComboBox tdptName;
+        private Label label42;
+        private ComboBox comboBox1;
+        private Label label41;
     }
 }

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\repositories\\hayvanlarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\repositories\\hayvanlarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\models\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\models\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\repositories\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\repositories\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\hayvanbar\u0131nma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\models\\vet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\models\\vet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|c:\\users\\stj.kadirhan.cura\\source\\repos\\hayvanbar\u0131nma\\hayvanbar\u0131nma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC644ACD-C0AF-4D41-A77A-C3A3FD81DE78}|HayvanBar\u0131nma\\HayvanBar\u0131nma.csproj|solutionrelative:hayvanbar\u0131nma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Pet.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:21:59.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Randevu.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Randevu.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Models\\Randevu.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Randevu.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Models\\Randevu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:27:35.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Islem.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Islem.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Models\\Islem.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Islem.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Models\\Islem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:38:10.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HayvanlarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Repositories\\HayvanlarRepository.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Repositories\\HayvanlarRepository.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Repositories\\HayvanlarRepository.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Repositories\\HayvanlarRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowKkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:59:01.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Dashboard.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Dashboard.cs",
+              "ViewState": "AgIAAGwEAAAAAAAAAAAjwIEEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:04:24.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Dashboard.cs [Design]",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:53:26.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Excel.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Repositories\\Excel.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Repositories\\Excel.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Repositories\\Excel.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Repositories\\Excel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:47:46.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Dashboard.Designer.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Dashboard.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:52:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vet.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Vet.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Models\\Vet.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Models\\Vet.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Models\\Vet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:22:12.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Form1.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Form1.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Form1.cs [Design]",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:05:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Form1.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Form1.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Form1.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:06:50.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Program.cs",
+              "RelativeDocumentMoniker": "HayvanBar\u0131nma\\Program.cs",
+              "ToolTip": "C:\\Users\\stj.kadirhan.cura\\source\\repos\\HayvanBar\u0131nma\\HayvanBar\u0131nma\\Program.cs",
+              "RelativeToolTip": "HayvanBar\u0131nma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:53:40.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

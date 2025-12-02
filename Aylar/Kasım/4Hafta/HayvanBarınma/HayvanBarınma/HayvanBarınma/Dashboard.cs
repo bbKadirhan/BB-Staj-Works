@@ -1138,15 +1138,20 @@ namespace HayvanBarınma
             Randevu i = new Randevu();
 
 
-                i.Tarih = Convert.ToDateTime(tdTrh.Text.Trim());
-                i.Veteriner = tdvtName.Text.Trim();
-                i.Hayvan = tdptName.Text.Trim();
-                i.Konu = tdknu.Text.Trim();
-                i.Durum = tddrm.Text.Trim();
+            i.Tarih = Convert.ToDateTime(tdTrh.Text.Trim());
+            i.Veteriner = tdvtName.Text.Trim();
+            i.Hayvan = tdptName.Text.Trim();
+            i.Konu = tdknu.Text.Trim();
+            i.Durum = tddrm.Text.Trim();
 
 
             repository.AddRandevu(i);
             LoadRandevus();
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

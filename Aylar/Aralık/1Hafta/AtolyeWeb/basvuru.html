@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AnaSayfa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="toastNotification" class="toast-hidden">
+         ✅ GÖNDERİLDİ
+    </div>
+
+
+    <button class="upper"><a href="#header-top">&#9650;</a></button>
+    <header id="header-top">
+        <div class="NavTitle">
+            <h1>GENÇ KODCU ATOLYESI</h1>
+        </div>
+        <div class="NavButtons">
+            <a href="index.html"><button class="NavButton">Anasayfa</button></a>
+            <a href="detaylar.html"><button class="NavButton">Detaylar</button></a>
+            <a href="basvuru.html"><button class="NavButton">Başvur</button></a>
+        </div>
+    </header>
+
+    <div class="main">
+        <div class="description">
+            <H1>Aşağıdaki formu doldurarak Genç Kodcu Atölyesi'ne ön başvuru yapabilirsin.</H1>
+            <br>
+            <form action="#" method="POST" class="application-form" onsubmit="return validateAndNotify(event)">
+                
+                <div class="form-group">    
+                    <label for="fname">Ad Soyad</label>
+                    <input type="text" id="fname" name="fname" placeholder="Adınız Soyadınız" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="fmail">E-posta</label>
+                    <input type="email" id="fmail" name="fmail" placeholder="mailiniz@gmail.com" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="finfo">Kendini anlat (En az 20 karakter):</label>
+                    <textarea id="finfo" name="finfo" minlength="20" rows="5" placeholder="Neden bu kursa katılmak istiyorsunuz?"></textarea>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label for="consent">Kişisel verilerimin işlenmesini onaylıyorum </label>
+                    <input type="checkbox" id="consent" name="consent" required>
+                </div>
+
+                <div class="form-actions">
+                    <input type="reset" class="btn reset-btn" value="Temizle">
+                    <input type="submit" class="btn submit-btn" value="Başvuruyu Gönder">
+                </div>
+            </form>
+        </div>
+        
+
+        
+    </div>
+
+
+    <footer>
+       <p>Copyright 2024-2025. All Rights Reserved. Genç Kodcu Atolyesi.</p>
+    </footer>
+
+    <script src="Main.js"></script>
+
+</body>
+</html>
