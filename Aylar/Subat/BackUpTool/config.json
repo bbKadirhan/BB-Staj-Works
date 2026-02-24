@@ -1,0 +1,33 @@
+{
+  "general": {
+    "backupRootPath": "C:\\BackupVault",
+    "backupTime": "02:30",
+    "dateTimeFolderFormat": "yyyy-MM-dd_HHmmss",
+    "mysql": {
+      "mysqldumpPath": "C:\\xampp\\mysql\\bin\\mysqldump.exe",
+      "defaultHost": "127.0.0.1",
+      "defaultPort": 3306
+    },
+    "logging": {
+      "console": true
+    },
+    "loop": {
+      "sleepSeconds": 20
+    }
+  },
+  "sites": [
+    {
+      "siteName": "iklimsiteBackup",
+      "enabled": true,
+      "keepLast": 3,
+      "wordpress": {
+        "rootPath": "C:\\xampp\\htdocs\\iklimsite"
+      },
+      "database": {
+        "dbName": "db_wordpress",
+        "username": "root",
+        "password": ""
+      }
+    }
+  ]
+}
