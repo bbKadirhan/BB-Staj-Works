@@ -2,7 +2,7 @@
 
 Bu proje, kullanıcıların saniyeler içinde anket oluşturup paylaşabileceği, sonuçları ise canlı (real-time) grafiklerle takip edebileceği modern bir web uygulamasıdır.
 
-**Canlı Demo:** anketplatform.vercel.app -- https://anketplatform.vercel.app
+**Canlı Demo:** anketplatform.vercel.app -- https://anketburada.vercel.app/
 
 ---
 
